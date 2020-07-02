@@ -86,7 +86,6 @@ def anoList(t, vetor, ano):
     return vetor
 
 
-
 # Função para encontrar o predecessor de um nó
 def predecessor(t):
   if t is None:
@@ -102,6 +101,7 @@ def predecessor(t):
       aux = aux.left
     return aux
 
+
 # Funções para gerar uma lista com todos os registros
 def transfere(t):
   vetor = []
@@ -114,7 +114,6 @@ def emOrdem(vetor, t):
     emOrdem(vetor, t.right)
     return vetor
   
-
 
 # Função para saber se um nó é folha
 def ehFolha(T):

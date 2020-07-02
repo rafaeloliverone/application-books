@@ -5,4 +5,4 @@ registro do catalogo contem o titulo do livro e ano de publicação. Os registro
 organizados em uma Arvore de Binária de Pesquisa (ABP), balanceada (AVL), cujas chaves
 são os títulos dos livros.
 
-<img src="/image_project.png">
+<img src="static/project.png">

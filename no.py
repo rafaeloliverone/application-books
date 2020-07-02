@@ -33,7 +33,6 @@ class No:
         return 'Titulo : {} \nAno : {}'.format(self.titulo,self.ano)
 
 
-
     ########### ÁRVORE AVL ##############
 
     def rotacaoDireita(self):
